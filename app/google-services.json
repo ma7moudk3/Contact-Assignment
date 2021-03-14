@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "648796117565",
+    "project_id": "firestore-test-3af02",
+    "storage_bucket": "firestore-test-3af02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648796117565:android:3fda950cc92db768c0e854",
+        "android_client_info": {
+          "package_name": "com.example.contactsfirestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "648796117565-mrmd1u8f1hvh5bk58s1lq52qtpo62aq7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCz9wM32OXK37HIjTgrWEP0hATkzEv3Oo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "648796117565-mrmd1u8f1hvh5bk58s1lq52qtpo62aq7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
